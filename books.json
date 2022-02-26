@@ -1,4 +1,33 @@
+
+        {
+
+"books" : [
+
 {
-  books: {
-        id: 1,
-        
+
+"id": 1,
+
+"title": "json-server",
+
+"author": "typicode"
+},
+
+"id": 2,
+
+"title": "json-server'
+
+"author": "typicode"
+
+I
+
+"id": 3,
+
+"title": "json-server",
+
+"author": "typicode"
+
+"id": 4,
+
+"title": "ison-server"
+
+"author": "typicode"
